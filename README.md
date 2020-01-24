@@ -14,6 +14,5 @@ $ git clone git@github.com:EricBintner/vue-storybook-tables.git
 ### Run
 
 ```
-$ git clone git@github.com:EricBintner/vue-storybook-tables.git
 $ npm run storybook
 ```
