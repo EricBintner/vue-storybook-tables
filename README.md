@@ -4,5 +4,5 @@ vue-storybook-tables
 ## (code not pushed yet)
 
 
-## to start:
+to start:
 $ npm run storybook
